@@ -108,10 +108,11 @@ html {
 	position: relative;
 }
 
-nav ul {
+nav li {
     list-style: none;
     display: flex;
     justify-content: center;
+	align-items: center;
     flex-direction: row;
     gap: 10px;
 }
@@ -121,6 +122,7 @@ nav a {
 	color: #F4F1DE;
     background-color: #6B8761;
 	text-decoration: none;
+	text-align: center;
     padding: 10px;
     border-radius: 5px;
     font-family: 'Bona Nova SC';
@@ -131,8 +133,8 @@ nav a {
 }
 
 nav a {
-	transition: transform .5s;
-	background-color: 1s ease-in .5s;
+	transition: transform .5s, 
+		background-color 1s ease-in .5s;
 }
 
 nav a:hover {
