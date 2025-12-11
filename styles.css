@@ -104,14 +104,13 @@ html {
 	background-color: #D0FFCE;
 }
 
-nav li {
+nav ul {
     list-style: none;
     display: flex;
     justify-content: center;
 	align-items: center;
     flex-direction: row;
     gap: 10px;
-	max-height: 150px;
 }
 
 nav a {
