@@ -132,12 +132,14 @@ nav a {
 		0px 1px 0px rgba(255,255,255,0.3); */
 }
 
-nav a {
+/* nav a {
 	transition: transform .5s, 
 		background-color 1s ease-in .5s;
-}
+} */
 
 nav a:hover {
+	transition: transform .5s, 
+		background-color 1s ease-in .5s;
 	background-color: #C2847A;
 	transform: scale(1.3);
 }
