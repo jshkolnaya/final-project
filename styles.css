@@ -146,4 +146,20 @@ h1 {
 	color: #6B8761;
 	text-align: center;
 }
+
+.grid {
+  margin: 20px 20px;
+/*  width: 1200px;
+  height: 2800px; */
+  display: grid;
+ /* grid-template: repeat(4, 1fr) / repeat(3, 1fr); */
+  gap: 10px 10px;
+}
+
+.box {
+ /* background-color: #ffdbec;
+  border: 2px #a16480 solid; */
+  padding: 5px 5px;
+  text-align: center;
+}
               
