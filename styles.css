@@ -140,6 +140,7 @@ nav a {
 
 nav a:hover {
 	background-color: #C2847A;
+	transform: scale(1.5);
 }
 
 h1 {
