@@ -109,11 +109,15 @@ nav ul {
 }
 
 nav a {
-	 /* color:
-    background-color: */
+	color: #D0FFCE;
+    background-color: #6B8761;
 	text-decoration: none;
     padding: 10px;
     border-radius: 5px;
     font-family: 'Bona Nova SC';
+	box-shadow: inset 0px 2px 0px rgba(255,255,255,0.7);
+	text-shadow:
+		0px -1px 1px rgba(000,000,000,0.2),
+		0px 1px 0px rgba(255,255,255,0.3);
 }
               
