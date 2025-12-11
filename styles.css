@@ -104,6 +104,10 @@ html {
 	background-color: #D0FFCE;
 }
 
+.container {
+	position: relative;
+}
+
 nav ul {
     list-style: none;
     display: flex;
