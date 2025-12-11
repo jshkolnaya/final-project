@@ -108,7 +108,7 @@ html {
     position: relative;
 }
 
-nav li {
+nav ul {
     list-style: none;
     display: flex;
     justify-content: center;
@@ -118,7 +118,6 @@ nav li {
 }
 
 nav a {
-	align-self: start;
 	font-size: 1.35em;
 	color: #F4F1DE;
     background-color: #6B8761;
