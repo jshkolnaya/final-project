@@ -212,4 +212,8 @@ body {
   width: 220px;
   text-align: center;
 }
-              
+
+a {
+	font-family: 'Bona Nova SC';
+    color: #8AAA7F;
+}
