@@ -88,10 +88,10 @@ h3,
 .text-size-h3 { font-size: 1.95em; font-weight: 400; }
 
 h4,
-.text-size-h4 { font-size: 1.56em; }
+.text-size-h4 { font-size: 1.56em; font-weight: 400; }
 
 h5,
-.text-size-h5 { font-size: 1.25em; }
+.text-size-h5 { font-size: 1.25em; font-weight: 400; }
 
 .text-caption { font-size: 0.8em; }
 
@@ -148,7 +148,7 @@ h1 {
 	text-align: center;
 }
 
-h2, h3 {
+h2, h3, h4, h5 {
 	color: #3E2609;
 }
 
