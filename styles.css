@@ -215,10 +215,12 @@ body {
 
 a {
 	font-family: 'Bona Nova SC';
-    color: #8AAA7F;
+    /*color: #8AAA7F;*/
+	color: #C2847A;
 	font-size: 1.3em;
 }
 
 li {
-	color: #C2847A;
+	/*color: #C2847A;*/
+	color: #8AAA7F;
 }
