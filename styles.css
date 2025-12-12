@@ -126,6 +126,7 @@ nav a {
 	text-align: center;
     padding: 5px 10px;
     border-radius: 5px;
+	border: 1px solid #6B8761;
     font-family: 'Bona Nova SC';
 	box-shadow: 2px 3px 12px rgba(0, 0, 0, 0.3);
 	text-shadow: 2px 4px 4px rgba(0,0,0,0.3),
