@@ -147,6 +147,14 @@ h1 {
 	text-align: center;
 }
 
+h2, h3 {
+	color: #31200B;
+}
+
+p {
+	color: #221201;
+}
+
 .grid {
   margin: 20px 20px;
 /*  width: 1200px;
