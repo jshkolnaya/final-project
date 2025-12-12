@@ -184,4 +184,10 @@ header {
 	border-bottom: 2px solid #594328;
 }
 
+img {
+  padding: 3px;
+  background-color: #8AAA7F;
+  box-shadow: 3px 3px 6px #888888;
+}
+
               
