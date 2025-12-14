@@ -233,10 +233,6 @@ table {
   text-align: left;
 }
 
-th {
-	
-}
-
-td {
-	
+th, td {
+	padding: 3px;
 }
