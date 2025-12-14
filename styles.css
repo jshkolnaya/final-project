@@ -159,19 +159,13 @@ p {
 /*css grid*/
 .grid {
   margin: 20px 20px;
-/*  width: 1200px;
-  height: 2800px; */
   display: grid;
- /* grid-template: repeat(4, 1fr) / repeat(3, 1fr); */
   gap: 10px 10px;
 }
 
 .box {
- /* background-color: #ffdbec;
-  border: 2px #a16480 solid; */
   padding: 5px 5px;
 	margin-right: 250px;
-  /*text-align: center; */
 }
 
 footer {
@@ -197,7 +191,6 @@ body {
 }
 
 /*flexbox*/
-
 .gallery {
   display: flex;
   justify-content: center;
@@ -217,16 +210,15 @@ body {
 
 a {
 	font-family: 'Bona Nova SC';
-    /*color: #8AAA7F;*/
 	color: #C2847A;
 	font-size: 1.3em;
 }
 
 li {
-	/*color: #C2847A;*/
 	color: #6B8761;
 }
 
+/*table for tea log*/
 table {
   height: 50%;
   width: 50%;
