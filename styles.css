@@ -152,7 +152,7 @@ h2, h3, h4, h5 {
 	color: #3E2609;
 }
 
-p {
+p, td, th {
 	color: #31200B;
 }
 
